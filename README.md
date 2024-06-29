@@ -39,5 +39,14 @@ Then tick"Activate Super-user" and "Allow access" in "Default access choice".<br
   
 ## Now run Waze. 
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image5.jpg" width="512">
+Click the sound icon at right bottom of main map view.  
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image6.jpg" width="512">
+Then click "Waze Voice"  
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image7.jpg" width="512">
+"Record a new voice"  
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image8.jpg" width="512">
+Here we are. This is the official panel that tells you everything to know about the files to record.
+
+## How Waze manages files in real time when you use their voice recording panel in the app.
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image8.jpg" width="512">
+First of, with BSTweaker than must stay open in background during the whole process, click "File Manager" from the "Info" tab (first tab of BSTweaker).
