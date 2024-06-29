@@ -142,8 +142,8 @@ Here are the two folder in which Waze will transfer files. See following images 
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image14.jpg" width="512">
 In my example the file "StartDrive1_temp.mp3" is created when I hit the record button, and is renamed to "StartDrive1.mp3" when I hit save.<br>  
   
-# It is in-between that you have to perform the action that will do the whole thing.  
-  
+# This is where you perform the action that will do the whole thing. 
+
 ### Start recording silence, then press stop, and before to hit "Save", in the file explorer, replace "StartDrive1_temp.mp3" by your custom "StartDrive_temp.mp3"  
   
 ### You MUST replace the temps files one by one in the temp folder. (Files you will drag and drop from Windows must end with "_temp.mp3")
