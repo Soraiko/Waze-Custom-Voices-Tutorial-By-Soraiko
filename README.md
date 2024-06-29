@@ -61,6 +61,8 @@ Files saved by Waze on android are located at this path:
 ```
 /data/data/com.waze/waze
 ```
--Left panel is system folder of Waze (android root accessible folder)  
--Right panel is your Windows folder. You must naviguate to a folder that will contain the files you will transfer to the emulator by drag and drop through these two panels.  
+<ul>
+<li>Left panel is system folder of Waze (android root accessible folder)</li>
+<li>Right panel is your Windows folder. You must naviguate to a folder that will contain the files you will transfer to the emulator by drag and drop through these two panels.</li>
+</ul>
   
