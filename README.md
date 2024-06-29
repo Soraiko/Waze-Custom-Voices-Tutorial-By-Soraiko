@@ -53,6 +53,7 @@ Here we are. This is the official panel that tells you everything to know about 
 ### How Waze manages files in real time when you use their voice recording panel in the app.
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image9.jpg" width="512">
 First of all, go back to BSTweaker (than must stay open in background during the whole process) click "File Manager" from the "Info" tab (first tab of BSTweaker).<br>  
+<br>  
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image10.jpg" width="512">
 
 ### This is the File Manager.
@@ -60,6 +61,6 @@ Files saved by Waze on android are located at this path:
 ```
 /data/data/com.waze/waze
 ```
--Left panel is system folder of Waze (android root accessible folder)<br>  
+-Left panel is system folder of Waze (android root accessible folder)  
 -Right panel is your Windows folder. You must naviguate to a folder that will contain the files you will transfer to the emulator by drag and drop through these two panels.  
   
