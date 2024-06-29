@@ -65,4 +65,15 @@ Files saved by Waze on android are located at this path:
 <li>Left panel is system folder of Waze (android root accessible folder)</li>
 <li>Right panel is your Windows folder. You must naviguate to a folder that will contain the files you will transfer to the emulator by drag and drop through these two panels.</li>
 </ul>
-  
+### Each custom voice you make has a UniqueID.
+In my example, my voice "Voix de Gertrude" has the following Unique ID:  
+```
+641cdc20-ffe7-4ad4-88a9-5d7f6a264c97
+```
+This is the unique ID that will identify your custom voice (or someone else's) everywhere:
+<ul>
+<li>1) In the share URL</li>
+<li>2) In the system app folder</li>
+<li>3) In the metadata.json that contains each voice file details.</li>
+</ul>
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image11.jpg" width="512">
