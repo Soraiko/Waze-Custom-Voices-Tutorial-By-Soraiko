@@ -140,7 +140,7 @@ This is the unique ID that will identify your custom voice (or someone else's) e
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image13.jpg" width="512">
 Here are the two folder in which Waze will transfer files. See following images for further explanations.<br>  
 <br>  
-<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image14.jpg" width="512">
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image14.jpg?t=2" width="512">
 In my example the file "StartDrive1_temp.mp3" is created when I hit the record button, and is renamed to "StartDrive1.mp3" when I hit save.<br>  
   
 # This is where you perform the action that will do the whole thing. 
