@@ -75,6 +75,6 @@ This is the unique ID that will identify your custom voice (or someone else's) e
 <ul>
 <li>1) In the share URL</li>
 <li>2) In the system app folder</li>
-<li>3) In the metadata.json that contains each voice file details.</li>
+<li>3) In the <b>metadata.json</b> that contains each voice file details.</li>
 </ul>
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image11.jpg" width="512">
