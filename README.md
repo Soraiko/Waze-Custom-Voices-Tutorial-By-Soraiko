@@ -31,7 +31,7 @@ Click the "Root" tab of BSTweaker and the top "Patch" button located before "Ins
 ### SuperSU, to enable root from the machine/emulated side.  
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image3.jpg" width="512">
 SuperSU will ask to update few modules, click "Normal" method.<br>  
-Then tick"Activate Super-user" and "Allow access" in "Defautl access choice".<br>  
+Then tick"Activate Super-user" and "Allow access" in "Default access choice".<br>  
 (Not sure how these buttons are named in the english.)  
   
 ## Install Waze APK.  
@@ -39,3 +39,5 @@ Then tick"Activate Super-user" and "Allow access" in "Defautl access choice".<br
   
 ## Now run Waze. 
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image5.jpg" width="512">
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image6.jpg" width="512">
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image7.jpg" width="512">
