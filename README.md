@@ -8,7 +8,8 @@ The problem is, their audio capturing tool is horribly compressing your audio, s
   
 ### That said, let's start with the explanations.  
 I'll be using **Bluestacks**, but you can do it the way you want.  
-In my case, you will need specific versions of Bluestacks, because latest versions either are a pain to root, either run versions of Android that are not compatiblr with Waze.  
+In my case, you will need specific versions of Bluestacks, because latest versions either are a pain to root, either run versions of Android that are not compatible with Waze.  
+The voice packs that will generate are compatible with the last versions of Waze.
 
 I'm an empathic person unlike most Github user so I uploaded all binaries that I have used in the folder "Dependencies-Binaries". (Yes I'm also rude and arrogant but I don't give a crap I'm saying the truth and this is MY tutorial.)  
 <ul>
