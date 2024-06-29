@@ -50,6 +50,8 @@ Then click "Waze Voice"<br>
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image8.jpg" width="512">
 Here we are. This is the official panel that tells you everything to know about the files to record.  
 You will find a list of filenames and details about them in the folder <b>Voice-Files/[language].txt</b>
+<br>
+As well as file I generated to put Waze's audio encoder on trial. (Random sample audio through the microphone to show the maximum compressing result)
 ```
 Codecs:
 AAC LC, 12kb/s, 8000 Hz, mono
