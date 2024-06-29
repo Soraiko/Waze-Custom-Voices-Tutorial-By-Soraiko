@@ -12,9 +12,9 @@ In my case, you will need specific versions of Bluestacks, because latest versio
 
 I'm an empathic person unlike most Github user so I uploaded all binaries that I have used in the folder "Dependencies-Binaries". (Yes I'm also rude and arrogant but I don't give a crap I'm saying the truth and this is MY tutorial.)  
 <ul>
-<li> <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="20">bluestacks-app-player-5-10-210.exe </li>
-<li> <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/archive.jpg" width="20">BSTweaker69020.zip</li>
-<li> <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="20">waze-4-52-3-4.apk  </li>
+<li> <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="20">&nbsp;bluestacks-app-player-5-10-210.exe </li>
+<li> <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/archive.jpg" width="20">&nbsp;BSTweaker69020.zip</li>
+<li> <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="20">&nbsp;waze-4-52-3-4.apk  </li>
 </ul>
  
   
