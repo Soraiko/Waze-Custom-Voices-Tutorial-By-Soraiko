@@ -40,10 +40,13 @@ Then tick"Activate Super-user" and "Allow access" in "Default access choice".<br
 ## Now run Waze. 
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image5.jpg" width="512">
 Click the sound icon at right bottom of main map view.<br>  
+<br>  
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image6.jpg" width="512">
 Then click "Waze Voice"<br>  
+<br>  
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image7.jpg" width="512">
 "Record a new voice"<br>  
+<br>  
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image8.jpg" width="512">
 Here we are. This is the official panel that tells you everything to know about the files to record.  
 
