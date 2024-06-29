@@ -1,0 +1,43 @@
+Tout est prêt. Allons-y !
+Tout est prêt. Allons-y !
+Démarrer
+En route ! Soyez prudent(e) !
+Tout est prêt. En route !
+Vous êtes prêt(e) ? Moi oui ! Allons-y !
+Tout est prêt. Soyez prudent(e) !
+Bonne route !
+C'est parti !
+Dans un dixième de mile
+Dans 200 mètres
+Dans un quart de mile
+Dans 400 mètres
+Dans un demi-mile
+Dans 800 mètres
+Dans 1 mile
+Dans 1 kilomètre
+Dans 1,5 kilomètre
+Serrez à gauche
+Serrez à droite
+Tournez à gauche
+Tournez à droite
+Sortez à gauche
+Sortez à droite
+Continuez tout droit
+Faites demi-tour
+Au rond-point
+Prenez la première sortie
+Prenez la deuxième sortie
+Prenez la troisième sortie
+Prenez la quatrième sortie
+Prenez la cinquième sortie
+Prenez la sixième sortie
+Prenez la septième sortie
+Police signalée un peu plus loin
+Accident signalé un peu plus loin
+Danger signalé un peu plus loin
+Embouteillage signalé un peu plus loin
+Radar de feu signalé un peu plus loin
+Contrôle radar signalé un peu plus loin
+puis
+Nouveau calcul d'itinéraire
+Vous êtes arrivé(e)

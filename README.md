@@ -49,7 +49,55 @@ Then click "Waze Voice"<br>
 <br>  
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image8.jpg" width="512">
 Here we are. This is the official panel that tells you everything to know about the files to record.  
+You will find a list of filenames and details about them in the folder <b>Voice-Files/[language].txt</b>
+```
+Codecs:
+AAC LC, 12kb/s, 8000 Hz, mono
 
+StartDrive1.mp3         (10kb / 6 sec. max)
+StartDrive2.mp3         (10kb / 6 sec. max)
+StartDrive3.mp3         (10kb / 6 sec. max)
+StartDrive4.mp3         (10kb / 6 sec. max)
+StartDrive5.mp3         (10kb / 6 sec. max)
+StartDrive6.mp3         (10kb / 6 sec. max)
+StartDrive7.mp3         (10kb / 6 sec. max)
+StartDrive8.mp3         (10kb / 6 sec. max)
+StartDrive9.mp3         (10kb / 6 sec. max)
+200.mp3                 ( 5kb / 3 sec. max)
+200meters.mp3           ( 5kb / 3 sec. max)
+400.mp3                 ( 5kb / 3 sec. max)
+400meters.mp3           ( 5kb / 3 sec. max)
+800.mp3                 ( 5kb / 3 sec. max)
+800meters.mp3           ( 5kb / 3 sec. max)
+1500.mp3                ( 5kb / 3 sec. max)
+1000meters.mp3          ( 5kb / 3 sec. max)
+1500meters.mp3          ( 5kb / 3 sec. max)
+KeepLeft.mp3            ( 5kb / 3 sec. max)
+KeepRight.mp3           ( 5kb / 3 sec. max)
+TurnLeft.mp3            ( 5kb / 3 sec. max)
+TurnRight.mp3           ( 5kb / 3 sec. max)
+ExitLeft.mp3            ( 5kb / 3 sec. max)
+ExitRight.mp3           ( 5kb / 3 sec. max)
+Straight.mp3            ( 5kb / 3 sec. max)
+uturn.mp3               ( 5kb / 3 sec. max)
+Roundabout.mp3          ( 5kb / 3 sec. max)
+First.mp3               ( 6kb / 3 sec. max)
+Second.mp3              ( 5kb / 3 sec. max)
+Third.mp3               ( 5kb / 3 sec. max)
+Fourth.mp3              ( 5kb / 3 sec. max)
+Fifth.mp3               ( 5kb / 3 sec. max)
+Sixth.mp3               ( 5kb / 3 sec. max)
+Seventh.mp3             ( 5kb / 3 sec. max)
+Police.mp3              (10kb / 6 sec. max)
+ApproachAccident.mp3    (10kb / 6 sec. max)
+ApproachHazard.mp3      (10kb / 6 sec. max)
+ApproachTraffic.mp3     (10kb / 6 sec. max)
+ApproachRedLightCam.mp3 (10kb / 6 sec. max)
+ApproachSpeedCam.mp3    (10kb / 6 sec. max)
+AndThen.mp3             ( 5kb / 3 sec. max)
+TickerPoints.mp3        ( 8kb / 5 sec. max)
+Arrive.mp3              (10kb / 6 sec. max)
+```
 ### How Waze manages files in real time when you use their voice recording panel in the app.
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image9.jpg" width="512">
 First of all, go back to BSTweaker (than must stay open in background during the whole process) click "File Manager" from the "Info" tab (first tab of BSTweaker).<br>  

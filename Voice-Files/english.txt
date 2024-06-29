@@ -1,0 +1,43 @@
+All set. Let's go!
+We're all set. Let's go!
+Start driving
+Let's get started - drive safe!
+All set. Let's hit the road.
+You ready? I am! Let's go!
+We're ready to roll. Drive safe!
+Have a pleasant drive!
+Ok, here we go!
+In 0.1 miles
+In 200 meters
+In a quarter of mile
+In 400 meters
+In half a mile
+In 800 meters
+In 1 mile
+In 1 kilometer
+In 1.5 kilometers
+Keep left
+Keep right
+Turn left
+Turn right
+Exit left
+Exit right
+Continue straight
+Make a U-turn
+At the roundabout
+Take the first exit
+Take the second exit
+Take the third exit
+Take the fourth exit
+Take the fifth exit
+Take the sixth exit
+Take the seventh exit
+Police reported ahead
+Crash reported ahead
+Hazard reported ahead
+Heavy traffic reported ahead
+Red light camera reported ahead
+Speed trap reported ahead
+And then
+Rerouting
+You've arrived
