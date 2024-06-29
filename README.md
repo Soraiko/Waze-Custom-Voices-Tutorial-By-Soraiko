@@ -28,8 +28,8 @@ I personally just ran the app AFTER Bluestacks was fully loaded and ready in the
  <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image2.jpg" width="512">
 Click the "Root" tab of BSTweaker and the top "Patch" button located before "Install SuperSu"<br>  
   
-### SuperSU, enable root from the machine/emulated side.  
+### SuperSU, to enable root from the machine/emulated side.  
  <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image3.jpg" width="512">
- SuperSU will ask to update few modules, click "Normal" method.
- Then "Activate Super-user" and "Allow access" in "Defautl access choice".
- Not how these buttons are named in the english.
+ SuperSU will ask to update few modules, click "Normal" method.  
+ Then tick"Activate Super-user" and "Allow access" in "Defautl access choice".  
+ (Not sure how these buttons are named in the english.)
