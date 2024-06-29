@@ -50,7 +50,7 @@ Then click "Waze Voice"<br>
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image8.jpg" width="512">
 Here we are. This is the official panel that tells you everything to know about the files to record.  
 <br>  
-Just as a reference, (you don't need this folder for you conversion) you will find a list of filenames and details about them in the folder<br>  
+Just as a reference, (you don't need this folder for your conversion) you will find a list of filenames and details about them in the folder<br>  
 <b>Voice-Files/[language].txt</b> in my repository.
 <br>
 As well as file I generated to put Waze's audio encoder on trial. (Random sample audio through the microphone to show the maximum compressing result)  
@@ -133,3 +133,16 @@ This is the unique ID that will identify your custom voice (or someone else's) e
 <li>3) In the <b>metadata.json</b> that contains each voice file details.</li>
 </ul>
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image11.jpg" width="512">
+
+### When you record voices.   
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image12.jpg" width="512">
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image13.jpg" width="512">
+Here are the two folder in which Waze will transfer files. See following images for further explanations.<br>  
+<br>  
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image14.jpg" width="512">
+In my example the file "StartDrive1_temp.mp3" is created when I hit the record button, and is renamed to "StartDrive1.mp3" when I hit save.<br>  
+# This is where you perform the action that will do the whole thing.  
+  
+## Start recording silence, then press stop, and before to hit "Save", in the file explorer, replace "StartDrive1_temp.mp3" by your custom "StartDrive_temp.mp3"  
+  
+##You MUST replace the temps files one by one in the temp folder. (Files you will drag and drop from Windows must end with "_temp.mp3")
