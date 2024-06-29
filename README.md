@@ -12,9 +12,9 @@ In my case, you will need specific versions of Bluestacks, because latest versio
 
 I'm an empathic person unlike most Github user so I uploaded all binaries that I have used in the folder "Dependencies-Binaries". (Yes I'm also rude and arrogant but I don't give a crap I'm saying the truth and this is MY tutorial.)  
 <ul>
-<li><a target="_blank" href="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/raw/main/Dependencies-Binaries/bluestacks-app-player-5-10-210.exe"><img style="margin-left: 10px;" src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="18">bluestacks-app-player-5-10-210.exe</a></li>
-<li><a target="_blank" href="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/raw/main/Dependencies-Binaries/BSTweaker69020.zip"><img style="margin-left: 10px;" src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/archive.jpg" width="18">BSTweaker69020.zip</a></li>
-<li><a target="_blank" href="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/raw/main/Dependencies-Binaries/waze-4-52-3-4.apk"><img style="margin-left: 10px;" src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="18">waze-4-52-3-4.apk</a></li>
+<li><a target="_blank" href="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/raw/main/Dependencies-Binaries/bluestacks-app-player-5-10-210.exe"><img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="18">&nbsp;bluestacks-app-player-5-10-210.exe</a></li>
+<li><a target="_blank" href="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/raw/main/Dependencies-Binaries/BSTweaker69020.zip"><img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/archive.jpg" width="18">&nbsp;BSTweaker69020.zip</a></li>
+<li><a target="_blank" href="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/raw/main/Dependencies-Binaries/waze-4-52-3-4.apk"><img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="18">&nbsp;waze-4-52-3-4.apk</a></li>
 </ul>
  
   
