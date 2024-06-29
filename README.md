@@ -149,5 +149,12 @@ You MUST replace the temps files one by one in the temp folder. (Files you will 
 <br>  
 You will have to repeat that action for every file.
 
-## That's all you need to know. Below are some additionnal info.
+## That's all. Below are some additionnal info.
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image15.jpg" width="512">
+
+### IMPORTANT:
+
+<ul>
+<li>Don't forget to set the default voice that will be played when the GPS will try to play a file that you didn't specify in the prompts list or when it failed buffering it when the GPS is playing the sound. This setting is at the end of the list where you record/edit prompts one by one in Waze.</li>
+<li><b>Very annoying:</b> Waze struggles to buffer sound files. I had to click on many sound related buttons before the GPS voice worked. (Such as disable sound then enabling sounds again, or clicking another voice and re-clicking my custom one again.) GPS might simply run for few seconds before to correctly load the voices.</li>
+</ul>
