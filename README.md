@@ -24,10 +24,10 @@ I'm an empathic person unlike most Github user so I uploaded all binaries that I
  <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image1.jpg" width="512">
 The two chain link icons on the left panel of BSTweaker must both be green. I let you understand the app to make it so. 
 I personally just ran the app AFTER Bluestacks was fully loaded and ready in the main menu with application icons.<br>  
-<br>  
+  
  <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image2.jpg" width="512">
 Click the "Root" tab of BSTweaker and the top "Patch" button located before "Install SuperSu"<br>  
-<br>  
+  
 ### SuperSU, enable root from the machine/emulated side.  
  <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image3.jpg" width="512">
  SuperSU will ask to update few modules, click "Normal" method.
