@@ -34,4 +34,8 @@ SuperSU will ask to update few modules, click "Normal" method.<br>
 Then tick"Activate Super-user" and "Allow access" in "Defautl access choice".<br>  
 (Not sure how these buttons are named in the english.)  
   
-f
+## Install Waze APK.  
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image4.jpg" width="512">
+  
+## Now run Waze. 
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image5.jpg" width="512">
