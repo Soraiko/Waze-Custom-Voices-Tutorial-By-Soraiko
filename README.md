@@ -52,6 +52,7 @@ Here we are. This is the official panel that tells you everything to know about 
 You will find a list of filenames and details about them in the folder <b>Voice-Files/[language].txt</b>
 <br>
 As well as file I generated to put Waze's audio encoder on trial. (Random sample audio through the microphone to show the maximum compressing result)
+  
 ```
 Codecs:
 AAC LC, 12kb/s, 8000 Hz, mono
@@ -100,6 +101,7 @@ AndThen.mp3             ( 5kb / 3 sec. max)
 TickerPoints.mp3        ( 8kb / 5 sec. max)
 Arrive.mp3              (10kb / 6 sec. max)
 ```
+  
 ### How Waze manages files in real time when you use their voice recording panel in the app.
 <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image9.jpg" width="512">
 First of all, go back to BSTweaker (than must stay open in background during the whole process) click "File Manager" from the "Info" tab (first tab of BSTweaker).<br>  
