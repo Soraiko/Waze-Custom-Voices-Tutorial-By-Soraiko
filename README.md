@@ -1,7 +1,6 @@
 # Waze Custom Voices Tutorial By Soraiko
 
-## This repository is a tutorial with my explanations on how to import voices to Waze: 
-## the "hard way" to do it. 
+## This repository is a tutorial with my explanations on how to import voices to Waze: the "hard way" to do it. 
 Hopefully my explanations will help make that pain easier to bear.  
   
 The "easy way" around is the official alternative that consists in recording your voice on Waze by using their audio capturing tool.  
