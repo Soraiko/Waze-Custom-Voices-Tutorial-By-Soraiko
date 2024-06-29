@@ -15,4 +15,4 @@ I'm an empathic person unlike most Github user so I uploaded all binaries that I
  ![](https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/archive.jpg?raw=true|width=32) BSTweaker69020.zip  
 waze-4-52-3-4.apk  
  
- <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="32">
+ <img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="16">
