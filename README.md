@@ -48,5 +48,5 @@ Then click "Waze Voice"
 Here we are. This is the official panel that tells you everything to know about the files to record.
 
 ## How Waze manages files in real time when you use their voice recording panel in the app.
-<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image8.jpg" width="512">
-First of, with BSTweaker than must stay open in background during the whole process, click "File Manager" from the "Info" tab (first tab of BSTweaker).
+<img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/image9.jpg" width="512">
+First of all, go back to BSTweaker (than must stay open in background during the whole process) click "File Manager" from the "Info" tab (first tab of BSTweaker).
