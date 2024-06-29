@@ -53,7 +53,8 @@ Here we are. This is the official panel that tells you everything to know about 
 Just as a reference, (you don't need this folder for your conversion) you will find a list of filenames and details about them in the folder<br>  
 <b>Voice-Files-Infos/[language].txt</b> in my repository.
 <br>
-As well as file I generated to put Waze's audio encoder on trial. (Randomized whitenoise audio through the microphone to show the maximum compressing result)  
+As well as file I generated to put Waze's audio encoder on trial.<br>  
+(Randomized whitenoise audio through the microphone to show the maximum compressing result)  
 <br>  
   
 ```
