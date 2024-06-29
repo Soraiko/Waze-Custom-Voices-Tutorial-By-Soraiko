@@ -4,18 +4,15 @@
 Hopefully my explanations will help make that pain easier to bear.  
   
 The "easy way" around is the official alternative that consists in recording your voice on Waze by using their audio capturing tool.  
-The problem is, their audio capturing tool is horribly compressing your audio, so trying to run it on an emulator  
-by sending high quality audio into the microphone stream doesn't help either.  
+The problem is, their audio capturing tool is horribly compressing your audio, so trying to run it on an emulator by sending high quality audio into the microphone stream doesn't help either.  
   
 ### That said, let's start with the explanations.  
 I'll be using **Bluestacks**, but you can do it the way you want.  
-In my case, you will need specific versions of Bluestacks, because latest versions either are a pain to root,  
-either run versions of Android that are not compatiblr with Waze.  
+In my case, you will need specific versions of Bluestacks, because latest versions either are a pain to root, either run versions of Android that are not compatiblr with Waze.  
 
-I'm an empathic person unlike most Github user so I uploaded all binaries that I have used in the folder "Dependencies-Binaries".  
-(Yes I'm also rude and arrogant but I don't give a crap I'm saying the truth and this is MY tutorial.)  
- ![](https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg?raw=true) bluestacks-app-player-5-10-210.exe  
- ![](https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg?raw=true) BSTweaker69020.zip  
- ![](https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg?raw=true) waze-4-52-3-4.apk  
+I'm an empathic person unlike most Github user so I uploaded all binaries that I have used in the folder "Dependencies-Binaries". (Yes I'm also rude and arrogant but I don't give a crap I'm saying the truth and this is MY tutorial.)  
+ ![](https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg?raw=true| width=32) bluestacks-app-player-5-10-210.exe  
+ ![](https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg?raw=true| width=32) BSTweaker69020.zip  
+ ![](https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg?raw=true| width=32) waze-4-52-3-4.apk  
  
  
