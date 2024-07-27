@@ -15,7 +15,7 @@ I'm an empathic person unlike most Github user so I uploaded all binaries that I
 <ul>
 <li><a target="_blank" href="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/raw/main/Dependencies-Binaries/bluestacks-app-player-5-10-210.exe"><img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="18">&nbsp;bluestacks-app-player-5-10-210.exe</a></li>
 <li><a target="_blank" href="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/raw/main/Dependencies-Binaries/BSTweaker69020.zip"><img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/archive.jpg" width="18">&nbsp;BSTweaker69020.zip</a></li>
-<li><a target="_blank" href="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/raw/main/Dependencies-Binaries/SuperSU-v2.82-SR5"><img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="18">&nbsp;SuperSU-v2.82-SR5.apk</a></li>
+<li><a target="_blank" href="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/raw/main/Dependencies-Binaries/SuperSU-v2.82-SR5.apk"><img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="18">&nbsp;SuperSU-v2.82-SR5.apk</a></li>
 <li><a target="_blank" href="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/raw/main/Dependencies-Binaries/waze-4-52-3-4.apk"><img src="https://github.com/Soraiko/Waze-Custom-Voices-Tutorial-By-Soraiko/blob/main/README_Pictures/bsicon.jpg" width="18">&nbsp;waze-4-52-3-4.apk</a></li>
 </ul>
  
